@@ -1,7 +1,28 @@
 {
+<<<<<<< HEAD
   "name": "node-mongo",
   "version": "1.0.0",
   "description": "this is node mongo exmaple",
+=======
+<<<<<<< HEAD
+  "name": "confusionserver",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0"
+=======
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "node express examples",
+>>>>>>> origin/master
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +31,14 @@
   "author": "Ashok78910",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "assert": "^1.4.1",
     "mongodb": "^3.6.2"
+=======
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+>>>>>>> ca52f8dfe33dc48381c1133c79ccab2fa7448b37
+>>>>>>> origin/master
   }
 }
